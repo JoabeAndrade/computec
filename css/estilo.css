@@ -1,0 +1,3 @@
+body{
+    min-width: 372px; /*Largura mínima necessária para que o site seja exibido corretamente em dispositivos móveis quando estiverem na vertical*/
+}
